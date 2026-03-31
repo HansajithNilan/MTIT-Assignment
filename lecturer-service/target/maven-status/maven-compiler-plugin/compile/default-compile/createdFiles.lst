@@ -1,0 +1,8 @@
+com\example\lecturerservice\exception\ResourceNotFoundException.class
+com\example\lecturerservice\model\Lecturer.class
+com\example\lecturerservice\controller\LecturerController.class
+com\example\lecturerservice\exception\GlobalExceptionHandler.class
+com\example\lecturerservice\LecturerServiceApplication.class
+com\example\lecturerservice\service\LecturerService.class
+com\example\lecturerservice\config\OpenApiConfig.class
+com\example\lecturerservice\config\FirebaseConfig.class

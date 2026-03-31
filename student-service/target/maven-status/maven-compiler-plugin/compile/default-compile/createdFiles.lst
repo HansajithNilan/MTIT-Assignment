@@ -1,0 +1,11 @@
+com\sliit\student\entity\Student.class
+com\sliit\student\exception\ResourceNotFoundException.class
+com\sliit\student\StudentServiceApplication.class
+com\sliit\student\controller\HomeController.class
+com\sliit\student\exception\GlobalExceptionHandler.class
+com\sliit\student\repository\StudentRepository.class
+com\sliit\student\config\DataLoader.class
+com\sliit\student\config\OpenApiConfig.class
+com\sliit\student\service\StudentService.class
+com\sliit\student\controller\StudentController.class
+com\sliit\student\dto\StudentDTO.class
